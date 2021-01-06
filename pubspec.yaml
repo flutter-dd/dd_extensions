@@ -1,0 +1,14 @@
+name: flutter_extension
+description: Flutter package for extension.
+version: 0.0.1
+author: duanchanghe <duanchanghe@gmail.com>
+homepage: https://github.com/leisim/logger_flutter
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
