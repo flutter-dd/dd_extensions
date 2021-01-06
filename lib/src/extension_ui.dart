@@ -1,4 +1,4 @@
-part of flutter_extension;
+part of dd_extensions;
 
 
 extension Context on BuildContext {
