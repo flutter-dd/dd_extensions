@@ -1,4 +1,4 @@
-# flutter_extension
+# dd_extensions
 
 A new Flutter package.
 
